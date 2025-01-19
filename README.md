@@ -1,43 +1,44 @@
-# Hi there, I'm kredencos 👋
+# Welcome to My GitHub Profile – Kredencos
 
-Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative projects. Here's a bit more about me:
+Hello and welcome to my GitHub profile! I am Kredencos, a technology enthusiast with a strong focus on hardware development, coding, and creating efficient, functional solutions. Here, you will find a collection of projects that I have worked on, ranging from microcontroller-based devices to web development.
 
-## 🔧 Technologies & Tools
+---
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+### 📌 About Me  
+- **Name:** Kredencos  
+- **Email:** [kredencos@krdnc.dev](mailto:kredencos@krdnc.dev)  
+- I am passionate about exploring new technologies and pushing the boundaries of what is possible. My work primarily involves creating embedded systems, designing web applications, and integrating hardware with software.
 
-## 📈 GitHub Stats
+---
 
-![kredencos's GitHub stats](https://github-readme-stats.vercel.app/api?username=kredencos&show_icons=true&theme=radical)
+### 🔧 Skills & Expertise  
+I have experience working with a variety of technologies and tools, including:  
+- **Programming Languages:** Python, JavaScript, C++, HTML, CSS  
+- **Embedded Systems:** Arduino, ESP32, LoRa, various sensors  
+- **Web Development:** HTML, CSS, JavaScript for designing user-friendly interfaces and responsive web pages  
+- **Problem Solving:** I enjoy approaching complex challenges and breaking them down into manageable solutions.
 
-## 💬 Connect with Me
+---
 
-- Personal Website: [kredencos.com](https://kredencos.com)
-- LinkedIn: [linkedin.com/in/kredencos](https://www.linkedin.com/in/kredencos)
-- Twitter: [@kredencos](https://twitter.com/kredencos)
+### 🚀 Current Focus Areas  
+At present, I am focused on:  
+- Developing **low-power, energy-efficient IoT devices** for a variety of use cases.  
+- Exploring **long-range communication** through LoRa technology.  
+- Designing clean, user-friendly web interfaces using **HTML** and **CSS**.
 
-## 📝 Latest Blog Posts
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Python](https://kredencos.com/blog/python-getting-started)
-- [Understanding React Hooks](https://kredencos.com/blog/react-hooks)
-- [Docker Basics for Beginners](https://kredencos.com/blog/docker-basics)
-<!-- BLOG-POST-LIST:END -->
+### 🎯 Goals & Projects  
+My aim is to continue refining my skills and expanding my knowledge base in:  
+- Building scalable and sustainable hardware solutions.  
+- Creating seamless, interactive web experiences.  
+- Constantly learning and improving in both the hardware and software domains.
 
-## 📊 Weekly Development Breakdown
+---
 
-<!--START_SECTION:waka-->
-```text
-Python       15 hrs 30 mins ████████████▒░░░░░░░░░░░░   49.52 %
-JavaScript   10 hrs 25 mins ████████▒░░░░░░░░░░░░░░░░   33.27 %
-HTML         3 hrs 48 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-CSS          1 hr 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   5.86 %
+### 🌐 Let's Connect  
+If you're interested in collaborating or have any questions regarding my work, feel free to reach out via email at [kredencos@krdnc.dev](mailto:kredencos@krdnc.dev). I am open to discussing new projects, sharing insights, or simply exchanging ideas.
+
+Thank you for visiting my profile, and I look forward to connecting with like-minded individuals.
+
+---
